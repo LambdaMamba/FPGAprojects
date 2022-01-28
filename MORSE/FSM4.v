@@ -220,7 +220,7 @@ module FSM4(in, clock50, reset, dash, dot, dotdash, seg7, stateLED);
         E: seg7 = 8'b10001111;
         F: seg7 = 8'b10001110;
         G: seg7 = 8'b10101111;
-        H:    seg7 = 8'b01101110;
+        H: seg7 = 8'b01101110;
         s0:seg7 = 8'b11100111;
         s1:seg7 = 8'b01100000;
         s2:seg7 = 8'b11001011;
