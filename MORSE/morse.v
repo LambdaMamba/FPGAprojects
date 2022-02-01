@@ -1,4 +1,4 @@
-module FSM4(in, clock50, reset, dash, dot, dotdash, seg7, stateLED);
+module morse(in, clock50, reset, dash, dot, dotdash, seg7, stateLED);
     input in;
     input clock50;
     input reset;
