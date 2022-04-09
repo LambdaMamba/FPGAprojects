@@ -15,7 +15,7 @@ The demo for [morse.v](./MORSE/morse.v)
 ![Figure 1](demo/morsedemo.gif) 
 
 
-## Pipeline MIPs CPU
+## 5 stage pipeline MIPs CPU
 The demo for [mips_cpu.sv](./PIPELINE_CPU/mips_cpu.sv)
 
 ![Figure 1](demo/cpudemo.gif) 
