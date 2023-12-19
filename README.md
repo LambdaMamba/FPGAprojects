@@ -1,7 +1,7 @@
 # FPGAprojects
 
 
-The details can be found [here in my Blog Post](https://dev.to/lambdamamba/using-the-gpio-for-external-inputs-and-outputs-for-fancy-fpga-projects-2697)
+The details can be found [here in my Blog Post](https://medium.com/@LambdaMamba/list/hardware-lowlevel-fpgas-410eb443272c)
 
 ## FSM
 The demo for [FSM1.v](./FSM/FSM1.v)
